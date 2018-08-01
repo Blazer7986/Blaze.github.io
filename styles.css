@@ -1,0 +1,46 @@
+
+h1 {
+  color: purple;
+  background-color: white;
+  font-size: 70px;
+  text-align: center;
+}
+
+.scratch {
+  color: purple;
+  font-size: 200px;
+}
+
+.page-section {
+  font-size: 40px;
+  color: purple;
+  background-color: white;
+  text-align: center;
+}
+#NY {
+  height: 500px;
+  background:url(NY.jpg);
+  background-size: cover;
+}
+
+p {
+    font-size: 30px;
+    border: 5px solid powderblue;
+    font-style: oblique;
+
+}
+body {background-color: lavender;
+}
+
+.img img {
+    border-radius: 50%;
+    width: 230px;
+    height: 200px;
+    margin: 20px;
+    float: left;
+    padding: 5px;
+
+}
+#movemoment:hover {
+    background:url("https://giphy.com/embed/t4ly6tL5BaoRG"
+  )}
